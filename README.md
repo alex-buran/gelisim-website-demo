@@ -2,15 +2,14 @@
 
 **▶ Live demo: https://alex-buran.github.io/gelisim-website-demo/**
 
-A multi-page marketing site for a training and consultancy academy in Izmir:
-hero, service overview, featured programs, a filterable catalog of 87 programs
-grouped by field, corporate consultancy, FAQ and a contact section. Deep navy
-palette with Plus Jakarta Sans, a clean editorial layout, and a mobile-first
-responsive build.
+A single-page marketing site for a training and consultancy academy in Izmir:
+hero, service overview, featured programs, a catalog of 87 programs grouped by
+field, corporate consultancy, FAQ and a contact section, plus the mandatory legal
+page. Deep navy palette with Plus Jakarta Sans, a clean editorial layout, and a
+mobile-first responsive build.
 
-- `index.html`: the SEO-focused home page
-- `standart.html`: the standard variant with the interactive program catalog
-- `yasal.html`: legal pages
+- `index.html`: the delivered one-page site (SEO version)
+- `yasal.html`: legal page
 
 > **Sanitized portfolio demo.** Real phone number, e-mail, address, social
 > handle, catalog file and structured data have been replaced with placeholders.
@@ -25,3 +24,5 @@ responsive build.
 ## Design & build
 
 Designed and built by **[Softburn.tech](https://softburn.tech)**.
+
+
