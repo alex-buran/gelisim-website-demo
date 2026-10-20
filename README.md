@@ -10,16 +10,26 @@ mobile-first responsive build.
 
 - `index.html`: the delivered one-page site (SEO version)
 - `yasal.html`: legal page
+- `screenshots/`: desktop and mobile captures
 
 > **Sanitized portfolio demo.** Real phone number, e-mail, address, social
 > handle, catalog file and structured data have been replaced with placeholders.
 > The contact form and WhatsApp links are no-ops, and the pages are set to noindex.
+
+## Screenshots
+
+| Desktop | Mobile | Mobile menu |
+|---|---|---|
+| ![Desktop hero](screenshots/desktop-hero.jpg) | ![Mobile hero](screenshots/mobile-hero.jpg) | ![Mobile menu](screenshots/mobile-menu.jpg) |
+
+Full page: [`screenshots/desktop-full.jpg`](screenshots/desktop-full.jpg)
 
 ## Tech
 
 - Static HTML / CSS / vanilla JavaScript, no build step, no dependencies
 - Google Fonts (Plus Jakarta Sans)
 - Prefilled WhatsApp inquiry links per program, accordion catalog, FAQ
+- Tap-to-call phone link in the hero and a mobile menu that works without JavaScript
 
 ## Design & build
 
